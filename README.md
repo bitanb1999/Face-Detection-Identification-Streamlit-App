@@ -23,6 +23,15 @@ The Face Detection and Identification project is a web application built using t
 
 6. Error Handling: The application includes proper error handling mechanisms to manage issues such as incorrect video formats, face detection failures, and errors during face identification.
 
+### Streamlit UI
+
+![image](https://github.com/bijayshah726/Face-Detection-Identification-Streamlit-App/assets/89373352/4d4439ce-6b9a-4178-8115-df4fd338aae8)
+
+### Output from demo video
+![image](https://github.com/bijayshah726/Face-Detection-Identification-Streamlit-App/assets/89373352/1617e0b5-a6eb-4fd0-8bec-65ce7587e212)
+![image](https://github.com/bijayshah726/Face-Detection-Identification-Streamlit-App/assets/89373352/7ed5d3b6-6326-4f6d-85f3-58fd8cb3b92d)
+
+
 
 ## Installation and Usage
 
