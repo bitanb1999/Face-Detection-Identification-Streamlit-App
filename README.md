@@ -129,7 +129,7 @@ Connect your GitHub repository to Streamlit Sharing.
 Deploy the app on Streamlit Sharing (more details [here](https://docs.streamlit.io/streamlit-community-cloud/share-your-app))
 
 
-Demo Video from [Pexels]([https://www.pexels.com/video/people-walking-in-the-corridor-with-coffee-while-having-a-break-3254006/)
+Demo Video from [Pexels](https://www.pexels.com/video/people-walking-in-the-corridor-with-coffee-while-having-a-break-3254006/)
 
 Contributions and suggestions are welcome! Feel free to open issues or submit pull requests if you encounter any problems or have improvements to suggest.
    
